@@ -1,1 +1,1 @@
-#q::  Winset, Alwaysontop, , A
+#z::  Winset, Alwaysontop, , A
